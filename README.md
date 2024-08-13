@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This repository contains a small Python project demonstrating the use of the `requests` library for making HTTP requests. The `requests` library is a powerful and easy-to-use library for handling HTTP operations in Python, making it an essential tool for developers. This project includes multiple Python files that interact with random web APIs to get HTTP requests.
+This repository contains a small Python code-snippets demonstrating the use of the `requests` library for making HTTP requests. The `requests` library is a powerful and easy-to-use library for handling HTTP operations in Python, making it an essential tool for developers. This project includes multiple Python files that interact with random web APIs to get HTTP requests.
 
 ## Output examples
 
