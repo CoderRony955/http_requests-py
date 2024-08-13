@@ -1,0 +1,1 @@
+{"type":"general","setup":"What do you call a nervous javelin thrower?","punchline":"Shakespeare.","id":211}
